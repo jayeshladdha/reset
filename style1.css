@@ -1,0 +1,68 @@
+body{
+    background-color: cyan;
+}
+#box{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    border: 2px;
+    margin: 0 auto;
+    margin-top: 9%;
+    border-radius: 10px;
+    box-shadow: 3px 3px 15px black;
+}
+
+p{
+    text-align: center;
+    padding: 50px 50px 0px 50px;
+}
+
+form{
+    margin-left: 60px ;
+    padding: 15px 50px 50px 50px;
+}
+
+#em{
+    margin-top: 20px;
+    margin-left: 33px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+#ema{
+        margin-top: 20px;
+        margin-left: -6px;
+        margin-bottom: 10px;
+        display: block;
+}
+
+button{
+    height: 40px;
+    width: 150px;
+    margin-left: 31%;
+    border-radius: 30px;
+    box-shadow: 1px 1px 4px black;
+    
+}
+
+#resetpass{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+button:hover{
+    box-shadow: 1px 1px 6px black;
+}
+
+#resetemail{
+    margin-left: 28px;
+    margin-top: 20px;
+    display: block;
+}
+
+#phone{
+    margin-top: 20px;
+    display: block;
+}
